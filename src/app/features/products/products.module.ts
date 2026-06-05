@@ -16,6 +16,7 @@ import { ProductCardComponent } from './components/product-card/product-card.com
   ],
   imports: [
     CommonModule
-  ]
+  ],
+  exports: [ProductPageComponent]
 })
 export class ProductsModule { }
