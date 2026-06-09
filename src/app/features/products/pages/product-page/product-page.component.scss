@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    display: flex;
+}
+
+.list{
+    width: 50%;
+    height: 100vh;
+    background-color: #e00d0d;
+    border-radius: 100px 0px 0px 100px;
+}
+
+.form{
+    width: 50%;
+    height: 100vh;
+    background-color: #0d0de0;
+    border-radius: 0px 100px 100px 0px;
+}
